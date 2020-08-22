@@ -1,5 +1,7 @@
-### Hi there 👋
 
+## My Qiita posts [![My Qiita posts](https://qiita-badge.apiapi.app/s/hiroki-harada/posts.svg)](http://qiita.com/hiroki-harada)
+## My Qiita contributions [![My Qiita contributions](https://qiita-badge.apiapi.app/s/hiroki-harada/contributions.svg)](http://qiita.com/hiroki-harada)
+## My Qiita followers [![My Qiita followers](https://qiita-badge.apiapi.app/s/hiroki-harada/followers.svg)](http://qiita.com/hiroki-harada)
 <!--
 **hiroki-harada/hiroki-harada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
