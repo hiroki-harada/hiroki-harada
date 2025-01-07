@@ -1,9 +1,9 @@
 # Welcome to my GitHub ! 😎
 
-## Status
+## Contributions
 <img
-alt="github contribution grid snake animation"
-src="https://raw.githubusercontent.com/hiroki-harada/hiroki-harada/refs/heads/output/github-contribution-grid-snake-dark.svg"
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/hiroki-harada/hiroki-harada/refs/heads/output/github-contribution-grid-snake-dark.svg"
 />
 
 
