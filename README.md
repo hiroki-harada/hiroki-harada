@@ -1,5 +1,12 @@
 # Welcome to my GitHub ! 😎
 
+## Status
+<img
+alt="github contribution grid snake animation"
+src="https://raw.githubusercontent.com/hiroki-harada/hiroki-harada/refs/heads/output/github-contribution-grid-snake-dark.svg"
+/>
+
+
 ## My Qiita Works
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/hiroki-harada/posts.svg)](http://qiita.com/hiroki-harada)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/hiroki-harada/contributions.svg)](http://qiita.com/hiroki-harada)
