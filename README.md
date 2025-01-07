@@ -7,6 +7,18 @@ src="https://raw.githubusercontent.com/hiroki-harada/hiroki-harada/refs/heads/ou
 />
 
 
+## Status
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiroki-harada&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiroki-harada&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiroki-harada&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hiroki-harada&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hiroki-harada&theme=gruvbox&utcOffset=9)
+
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=hiroki-harada&theme=gruvbox)
+
+
 ## My Qiita Works
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/hiroki-harada/posts.svg)](http://qiita.com/hiroki-harada)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/hiroki-harada/contributions.svg)](http://qiita.com/hiroki-harada)
